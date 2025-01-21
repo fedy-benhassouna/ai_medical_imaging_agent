@@ -17,8 +17,7 @@ A Medical Imaging Diagnosis Agent build on phidata powered by Gemini 2.0 Flash E
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd ai_agent_tutorials/ai_medical_imaging_agent
+   git clone https://github.com/fedy-benhassouna/ai_medical_imaging_agent.git
 
    # Install dependencies
    pip install -r requirements.txt
@@ -29,7 +28,7 @@ A Medical Imaging Diagnosis Agent build on phidata powered by Gemini 2.0 Flash E
 
 3. **Run the Application**
    ```bash
-   streamlit run ai_medical_imaging.py
+   gradio ai_medical_imaging.py
    ```
 
 ## Analysis Components
